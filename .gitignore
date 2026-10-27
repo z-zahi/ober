@@ -39,3 +39,9 @@ yarn-error.*
 # generated native folders
 /ios
 /android
+
+# Word lock files
+~$*
+
+# local env
+.env
